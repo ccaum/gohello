@@ -1,0 +1,4 @@
+image:
+  repository: pcr-internal.puppet.net/rick.lane/gohello
+  tag: latest
+  pullPolicy: IfNotPresent
